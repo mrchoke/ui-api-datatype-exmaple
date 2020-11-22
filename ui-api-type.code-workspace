@@ -1,0 +1,27 @@
+{
+  "folders": [
+    {
+      "path": "vue3-example-type-api"
+    },
+    {
+      "path": "fastapi-example-type-api"
+    }
+  ],
+  "settings": {
+    "vetur.format.scriptInitialIndent": true,
+    "vetur.format.styleInitialIndent": true,
+    "vetur.experimental.templateInterpolationService": true,
+    "vetur.validation.templateProps": true,
+    "tailwindCSS.emmetCompletions": true,
+    "editor.fontFamily": "'JetBrains Mono',Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 15,
+    "editor.formatOnSave": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+"typescript.tsserver.experimental.enableProjectDiagnostics": true,
+"typescript.enablePromptUseWorkspaceTsdk": true,
+"python.pythonPath": "fastapi-example-type-api.env/bin/python3",
+"editor.tabSize": 2,
+"python.analysis.typeCheckingMode": "basic",
+  }
+}
