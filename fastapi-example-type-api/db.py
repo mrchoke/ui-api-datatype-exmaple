@@ -1,6 +1,5 @@
 import databases
 import sqlalchemy
-from pydantic import BaseModel
 
 #DATABASE_URL = "mysql://user:passwd@sever/db?charset=utf8mb4"
 DATABASE_URL = "sqlite:///./todos.db"
